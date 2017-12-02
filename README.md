@@ -1,5 +1,5 @@
-# MachineLearning
-Machine Learning Projects from Machine Learning Engineer Nanodegree
+# Machine Learning
+## Machine Learning Projects from Machine Learning Engineer Nanodegree
 ***
 1) poi_id.py: Supervised machine learning to predict persons of interest involved in Enron scandal
 ***
